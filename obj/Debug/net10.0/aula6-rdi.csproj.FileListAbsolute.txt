@@ -12,3 +12,4 @@ C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\refint\aul
 C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.pdb
 C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.genruntimeconfig.cache
 C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\ref\aula6-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.sourcelink.json
