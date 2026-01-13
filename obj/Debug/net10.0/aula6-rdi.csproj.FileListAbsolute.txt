@@ -1,0 +1,14 @@
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\bin\Debug\net10.0\aula6-rdi.exe
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\bin\Debug\net10.0\aula6-rdi.deps.json
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\bin\Debug\net10.0\aula6-rdi.runtimeconfig.json
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\bin\Debug\net10.0\aula6-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\bin\Debug\net10.0\aula6-rdi.pdb
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\refint\aula6-rdi.dll
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.pdb
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\aula6-rdi.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Área de Trabalho\aula6-rdi\obj\Debug\net10.0\ref\aula6-rdi.dll
